@@ -32,6 +32,7 @@ A curated list of Survey Papers on Deep Learning.
 |2022|International Journal of Computer Vision|[Perspectives and Prospects on Transformer Architecture for **Cross-Modal Tasks** with Language and Vision](https://link.springer.com/article/10.1007/s11263-021-01547-8)|
 |2022|ACM Computing Surveys|[Transformers in Vision: A Survey](https://dl.acm.org/doi/abs/10.1145/3505244)|
 |2022|AI Open|[Survey: Transformer based **video-language** pre-training](https://www.sciencedirect.com/science/article/pii/S2666651022000018)|
+|2022|arXiv|[Transformers in **Medical Image Analysis**: A Review](https://arxiv.org/abs/2202.12165)|
 |2022|arXiv|[Transformer for **Graphs**: An Overview from Architecture Perspective](https://arxiv.org/abs/2202.08455)|
 |2022|arXiv|[**Video** Transformers: A Survey](https://arxiv.org/abs/2201.05991)|
 |2022|arXiv|[Transformers in **Medical Imaging**: A Survey](https://arxiv.org/abs/2201.09873v1) [[**Github**](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]|
