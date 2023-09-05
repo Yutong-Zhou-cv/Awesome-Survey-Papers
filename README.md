@@ -47,6 +47,12 @@ A curated list of Survey Papers on Deep Learning.
 
  [       «🎯Back To Top»       ](#)
 
+## <span id="GANs"> *🌼GANs* </span>
+|Year|Publication|Paper|
+|:---:|:---:|:---:|
+|**2023**|Preprint|[Ten Years of Generative Adversarial Nets (GANs): A survey of the state-of-the-art](https://www.researchgate.net/publication/373551906_Ten_Years_of_Generative_Adversarial_Nets_GANs_A_survey_of_the_state-of-the-art)|
+
+
 <!--
 ## <span id="xxx"> *xxx* </span>
 |Year|Publication|Paper|
